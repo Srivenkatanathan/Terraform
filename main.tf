@@ -6,7 +6,7 @@ terraform {
        }
      }
      
-     required_version = ">= 2.13.0"    #required_version is nothing but version of cli
+     required_version = ">= 1.0.0"    #required_version is nothing but version of cli
      
  }    
      provider "aws" {
